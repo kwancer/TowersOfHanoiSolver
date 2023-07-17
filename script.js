@@ -78,6 +78,3 @@ function draw() {
       counter++
   }
 }
-
-
-console.log(counter)
